@@ -1,2 +1,2 @@
-# alura-portifolio
- primeiro portifolio que fiz do curso alura
+# Alura-Portifolio
+ Primeiro portifolio que fiz do curso alura
